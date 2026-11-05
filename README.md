@@ -1,1 +1,1 @@
-# campusfit-os
+# fit-os
